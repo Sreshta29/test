@@ -6,3 +6,5 @@ echo "easy"
 echo "hello sreshta"
 echo "child branch"
 echo "hello child"
+echo "checking diff tool"
+
