@@ -1,7 +1,3 @@
 hello
 hiii
-welcom
-after revert
-push 
-egek
-e
+welcome
